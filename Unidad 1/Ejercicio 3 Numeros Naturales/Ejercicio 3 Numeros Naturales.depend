@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1537973596 source:c:\users\eduardo\desktop\programas-edoardo-martin-ricalde-che\unidad 1\ejercicio 3 numeros naturales\main.cpp
+	<iostream>
+	<stdlib.h>
+	"procedimientos.h"
+
+1537973750 c:\users\eduardo\desktop\programas-edoardo-martin-ricalde-che\unidad 1\ejercicio 3 numeros naturales\procedimientos.h
+	<iostream>
+
+1537973750 source:c:\users\eduardo\desktop\programas-edoardo-martin-ricalde-che\unidad 1\ejercicio 3 numeros naturales\procedimientos.cpp
+	"procedimientos.h"
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1537744712 source:c:\users\eduardo\desktop\programas-edoardo-martin-ricalde-che\unidad 1\ejercicio 2 juego de ahorcado\juego.cpp
+	"juego.h"
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<string>
+
+1537744216 c:\users\eduardo\desktop\programas-edoardo-martin-ricalde-che\unidad 1\ejercicio 2 juego de ahorcado\juego.h
+	<iostream>
+	<string>
+
+1537743964 source:c:\users\eduardo\desktop\programas-edoardo-martin-ricalde-che\unidad 1\ejercicio 2 juego de ahorcado\main.cpp
+	<iostream>
+	"juego.h"
+	<string>
+

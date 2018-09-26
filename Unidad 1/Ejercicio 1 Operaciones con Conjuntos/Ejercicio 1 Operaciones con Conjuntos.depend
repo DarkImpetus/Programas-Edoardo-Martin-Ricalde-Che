@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1537974748 source:c:\users\eduardo\desktop\programas-edoardo-martin-ricalde-che\unidad 1\ejercicio 1 operaciones con conjuntos\main.cpp
+	<iostream>
+	<string>
+	"Procedimientos.h"
+
+1537974633 c:\users\eduardo\desktop\programas-edoardo-martin-ricalde-che\unidad 1\ejercicio 1 operaciones con conjuntos\procedimientos.h
+	<iostream>
+	<string>
+
+1537974633 source:c:\users\eduardo\desktop\programas-edoardo-martin-ricalde-che\unidad 1\ejercicio 1 operaciones con conjuntos\procedimientos.cpp
+	"Procedimientos.h"
+	<iostream>
+	<string>
+
