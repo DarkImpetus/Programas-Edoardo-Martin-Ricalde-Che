@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1538439790 source:c:\users\eduardo\desktop\programas-edoardo-martin-ricalde-che\unidad 2\ejercicio palindromos\main.cpp
+	<iostream>
+	<string.h>
+	"procesos palindromos.h"
+
+1538434270 source:c:\users\eduardo\desktop\programas-edoardo-martin-ricalde-che\unidad 2\ejercicio palindromos\procesos palindromos.cpp
+	"procesos palindromos.h"
+	<iostream>
+	<string.h>
+
+1538364386 c:\users\eduardo\desktop\programas-edoardo-martin-ricalde-che\unidad 2\ejercicio palindromos\procesos palindromos.h
+	<iostream>
+	<string.h>
+

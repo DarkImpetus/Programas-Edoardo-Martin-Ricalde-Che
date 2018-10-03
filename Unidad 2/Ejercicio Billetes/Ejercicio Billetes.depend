@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1538504368 source:c:\users\eduardo\desktop\programas-edoardo-martin-ricalde-che\unidad 2\ejercicio billetes\billetes.cpp
+	"Billetes.h"
+	<iostream>
+	<string>
+
+1538504368 c:\users\eduardo\desktop\programas-edoardo-martin-ricalde-che\unidad 2\ejercicio billetes\billetes.h
+	<iostream>
+	<string>
+
+1538504368 source:c:\users\eduardo\desktop\programas-edoardo-martin-ricalde-che\unidad 2\ejercicio billetes\main.cpp
+	<iostream>
+	<string>
+	"Billetes.h"
+
