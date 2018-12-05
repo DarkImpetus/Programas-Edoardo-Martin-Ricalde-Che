@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539661767 source:c:\users\fcojavierjunior\documents\programcionc\ejercicio1_pila_palabra_inversa\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+

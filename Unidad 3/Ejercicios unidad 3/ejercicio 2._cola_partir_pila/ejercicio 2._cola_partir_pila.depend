@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1539960508 source:c:\users\fcojavierjunior\documents\programcionc\ejercicio 2._cola_partir_pila\cola.cpp
+	"Cola.h"
+
+1539962722 c:\users\fcojavierjunior\documents\programcionc\ejercicio 2._cola_partir_pila\cola.h
+	<iostream>
+
+1539962529 source:c:\users\fcojavierjunior\documents\programcionc\ejercicio 2._cola_partir_pila\pila.cpp
+	"Pila.h"
+
+1539960616 c:\users\fcojavierjunior\documents\programcionc\ejercicio 2._cola_partir_pila\pila.h
+	<iostream>
+
+1539932624 source:c:\users\fcojavierjunior\documents\programcionc\ejercicio 2._cola_partir_pila\main.cpp
+	<iostream>
+	"Pila.h"
+	"Cola.h"
+	"stdlib.h"
+
+1539962596 source:c:\users\eduardo\desktop\programas-edoardo-martin-ricalde-che\unidad 3\ejercicios unidad 3\ejercicio 2._cola_partir_pila\cola.cpp
+	"Cola.h"
+
+1540330638 c:\users\eduardo\desktop\programas-edoardo-martin-ricalde-che\unidad 3\ejercicios unidad 3\ejercicio 2._cola_partir_pila\cola.h
+	<iostream>
+
+1539962530 source:c:\users\eduardo\desktop\programas-edoardo-martin-ricalde-che\unidad 3\ejercicios unidad 3\ejercicio 2._cola_partir_pila\pila.cpp
+	"Pila.h"
+
+1539960618 c:\users\eduardo\desktop\programas-edoardo-martin-ricalde-che\unidad 3\ejercicios unidad 3\ejercicio 2._cola_partir_pila\pila.h
+	<iostream>
+
